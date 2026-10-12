@@ -1,0 +1,39 @@
+body {
+    font-size: 35px;
+    background-color: plum;
+    color: whitesmoke;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 15%;
+}
+
+button {
+    border: solid 2px;
+    border-radius: 10px;
+    color: plum;
+    background-color: whitesmoke;
+    font-size: 35px;
+}
+
+#resultElement {
+    color: whitesmoke;
+    margin: 1px;
+}
+
+select {
+    border: solid 2px;
+    border-radius: 10px;
+    color: plum;
+    background-color: whitesmoke;
+    font-size: 35px;
+}
+
+input {
+    border: solid 2px;
+    border-radius: 10px;
+    color: plum;
+    background-color: whitesmoke;
+    font-size: 35px;
+}
